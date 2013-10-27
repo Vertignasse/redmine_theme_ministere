@@ -1,12 +1,12 @@
-Redmine Theme: Ministere
+Redmine Theme: Residence
 ========================
 
-This theme is used at my current work in the french department of environment. Tab style and some colors have been copied and adapted from excellent [Basecamp Classic](http://basecamp.com/classic) from 37signals.
+This theme will be used at my co-ownership residence. Tab style and some colors have been copied and adapted from the https://github.com/jbbarth/redmine_theme_ministere , that i use at work (Thanks my Team Leader JB).
 
 Screenshot
 ----------
 
-![redmine_theme_ministere screenshot](http://jbbarth.com/screenshots/redmine_theme_ministere.png)
+not yet
 
 Install
 -------
